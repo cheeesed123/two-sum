@@ -6,7 +6,9 @@ Have fun! Made for Leetcode challenge.
 
 Shameless marketing:
 Chief guy - Itch - [chiefguy.itch.io](chiefguy.itch.io)
+
 SOS - Discord, invite to server: [https://discord.com/invite/zd2SJNfAkQ]([url](https://discord.com/invite/zd2SJNfAkQ))
+
 Website - [https://sites.google.com/view/chiefs-games/home]([url](https://sites.google.com/view/chiefs-games/home))
 
 License:
