@@ -4,6 +4,11 @@ The program will find what two items in the list equal the target.
 
 Have fun! Made for Leetcode challenge.
 
+Shameless marketing:
+Chief guy - Itch - [chiefguy.itch.io](chiefguy.itch.io)
+SOS - Discord, invite to server: [https://discord.com/invite/zd2SJNfAkQ]([url](https://discord.com/invite/zd2SJNfAkQ))
+Website - [https://sites.google.com/view/chiefs-games/home]([url](https://sites.google.com/view/chiefs-games/home))
+
 License:
 The following license is the license for these products:
  - Two Sum
